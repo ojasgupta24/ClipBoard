@@ -1,0 +1,108 @@
+body{
+background-image: url(../images/bg-header-desktop.png);
+background-repeat: no-repeat;
+background-size: 100%;
+}
+p{
+  font-weight: 400;
+  font-size: 18px;
+color: hsl(201, 11%, 66%);
+margin: 1.5rem auto 3rem;
+width: 36%;
+line-height: 2;
+}
+h1{
+font-family: 'Bai Jamjuree', sans-serif;
+font-weight: 600;
+color: hsl(210, 10%, 33%);
+width: 37%;
+margin: 1.5rem auto 1.5rem;
+}
+h2{
+  font-family: 'Bai Jamjuree', sans-serif;
+  font-weight: 600;
+  color: hsl(210, 10%, 33%);
+}
+h3{
+  font-family: 'Bai Jamjuree', sans-serif;
+  font-weight: 600;
+color: hsl(210, 10%, 33%)
+}
+button{
+  margin: 0.5rem 0.5rem 0.5rem;
+}
+
+.top-container{
+  text-align: center;
+}
+.companyLogoTop{
+  display: block;
+margin: 150px auto 70px;
+}
+.middle-container1{
+  text-align: center;
+  margin-top: 8rem;
+  margin-bottom: 3rem;
+}
+.middle-container2{
+  margin: 8rem auto 3rem auto;
+  text-align: left;
+}
+.left{
+  text-align: left;
+  margin: 1.5rem 0 1rem;
+  line-height: 1.8;
+  width: 80%;
+}
+.computer{
+  position: relative;
+  right: 300px;
+width:140%;
+}
+.middle-container3{
+  text-align: center;
+  margin: 8rem auto 3rem;
+}
+.tablet{
+  margin-top: 3rem;
+  width: 60%;}
+
+.tool{
+text-align:center;
+}
+.length{
+  width: 100%;
+}
+.publishings{
+  text-align: center;
+  margin:8rem auto 3rem;
+}
+.download-section{
+text-align: center;
+margin:8rem auto 3rem;
+}
+.footer {
+  text-align: left;
+}
+.grey{
+  background-color:  hsl(201, 11%, 66%);
+}
+.dark-grey{
+color: hsl(210, 10%, 33%);
+margin: 1rem auto 1rem auto;
+width: 80%;
+}
+.middle{
+  text-align: center;
+}
+.width{
+  width: 25%;
+  margin-top: 1rem;
+}
+.right{
+  text-align: right;
+  padding-right: 150px;
+}
+.spacing{
+margin: 3rem 0.5rem 3rem;
+}
